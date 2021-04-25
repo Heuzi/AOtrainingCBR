@@ -14,6 +14,6 @@ Tune parameters in `Preparation and global parameters`. If you are not sure what
 
 Run from `Preparation and global parameters` to `Test the models`, this includes data preprocessing (standardizing), defining models, training models, and testing
 
-##How to run experiment on other data sets
+## How to run experiment on other data sets
 
 To do so, add a section like `Data(XXX)` to load data. Everything else remains the same as "How to replicate an experiment"
