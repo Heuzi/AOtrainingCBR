@@ -1,6 +1,8 @@
 # AOtrainingCBR
 
-The file "Train Retrieval and Adaptation Together 1.1.ipynb" is a jupyter note book that contains everything needed to carry out the experiments in the paper, EXCEPT that the data sets are not included. The URLs are provided for each data set to download it.
+The file "Train Retrieval and Adaptation Together 1.1.ipynb" is a jupyter note book that contains everything needed to carry out the experiments in the paper, Harmonizing Case Retrieval and Adaptation with Alternating Optimization: First Lessons (Under Review, ICCBR 2021)
+
+EXCEPT that the data sets are not included. The URLs are provided for each data set to download it.
 
 ## How to replicate an experiment
 
